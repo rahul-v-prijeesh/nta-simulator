@@ -120,7 +120,7 @@
       "id": 11,
       "section": "Trigonometry",
       "type": "numerical",
-      "question": "What is the value of (sin 30° + cos 60°)? Enter as a decimal (e.g. 1.0).",
+      "question": "What is the value of (sin 30° + cos 60°)? ",
       "options": null,
       "correct_answer": 1,
       "images": null,
@@ -155,7 +155,7 @@
       "type": "numerical",
       "question": "Find the value of tan 30° × tan 60°. Enter as a whole number.",
       "options": null,
-      "correct_answer": "1",
+      "correct_answer": 1,
       "images": null,
       "marks": { "correct": 4, "incorrect": 0 }
     },
