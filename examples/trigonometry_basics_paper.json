@@ -122,7 +122,7 @@
       "type": "numerical",
       "question": "What is the value of (sin 30° + cos 60°)? Enter as a decimal (e.g. 1.0).",
       "options": null,
-      "correct_answer": "1",
+      "correct_answer": 1,
       "images": null,
       "marks": { "correct": 4, "incorrect": 0 }
     },
