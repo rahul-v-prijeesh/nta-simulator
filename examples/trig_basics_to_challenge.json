@@ -1,0 +1,240 @@
+{
+  "exam": {
+    "title": "Trigonometry — Basics to Challenge",
+    "duration_minutes": 35,
+    "sections": ["Easy", "Medium", "Hard", "Very Hard"]
+  },
+  "questions": [
+
+    {
+      "id": 1,
+      "section": "Easy",
+      "type": "single",
+      "question": "What is the value of sin 30°?",
+      "options": ["√3/2", "1/2", "1/√2", "1"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 2,
+      "section": "Easy",
+      "type": "single",
+      "question": "What is the value of cos 45°?",
+      "options": ["1/2", "√3/2", "1/√2", "1"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 3,
+      "section": "Easy",
+      "type": "single",
+      "question": "What is the value of tan 60°?",
+      "options": ["1", "1/√3", "√3", "2"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 4,
+      "section": "Easy",
+      "type": "numerical",
+      "question": "What is the value of sin 0° + cos 0°? Enter as a whole number.",
+      "options": null,
+      "correct_answer": "1",
+      "images": null,
+      "marks": { "correct": 4, "incorrect": 0 }
+    },
+
+    {
+      "id": 5,
+      "section": "Easy",
+      "type": "single",
+      "question": "If tan θ = 1 and 0° < θ < 90°, what is the value of θ?",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 6,
+      "section": "Easy",
+      "type": "numerical",
+      "question": "What is the value of sin 90° × cos 0°? Enter as a whole number.",
+      "options": null,
+      "correct_answer": "1",
+      "images": null,
+      "marks": { "correct": 4, "incorrect": 0 }
+    },
+
+    {
+      "id": 7,
+      "section": "Easy",
+      "type": "single",
+      "question": "What is the value of sin²30° + cos²30°?",
+      "options": ["0", "1/2", "√3/2", "1"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 8,
+      "section": "Medium",
+      "type": "single",
+      "question": "If sin θ = 3/5 and θ is in the first quadrant, what is cos θ?",
+      "options": ["4/5", "3/4", "5/3", "5/4"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 9,
+      "section": "Medium",
+      "type": "single",
+      "question": "If cos θ = 5/13 and θ is in the first quadrant, what is tan θ?",
+      "options": ["5/12", "13/5", "12/5", "12/13"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 10,
+      "section": "Medium",
+      "type": "single",
+      "question": "If tan θ = 4/3 and θ is in the first quadrant, what is sin θ?",
+      "options": ["3/5", "4/3", "3/4", "4/5"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 11,
+      "section": "Medium",
+      "type": "single",
+      "question": "In a right triangle, the side opposite to angle θ is 8 and the hypotenuse is 17. What is cos θ?",
+      "options": ["8/17", "15/17", "8/15", "17/15"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 12,
+      "section": "Medium",
+      "type": "numerical",
+      "question": "What is the value of tan 45° + sin 30° + cos 60°? Enter as a whole number.",
+      "options": null,
+      "correct_answer": "2",
+      "images": null,
+      "marks": { "correct": 4, "incorrect": 0 }
+    },
+
+    {
+      "id": 13,
+      "section": "Medium",
+      "type": "multiple",
+      "question": "Which of the following are correct? (Select ALL that apply)",
+      "options": [
+        "sin 60° = √3/2",
+        "cos 30° = 1/2",
+        "tan 30° = 1/√3",
+        "sin 45° = 1/√2"
+      ],
+      "correct_answer": ["A", "C", "D"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -2 }
+    },
+
+    {
+      "id": 14,
+      "section": "Medium",
+      "type": "single",
+      "question": "In right triangle ABC, the right angle is at B. AB = 5 cm and BC = 12 cm. What is sin A?",
+      "options": ["5/13", "12/13", "5/12", "13/12"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 15,
+      "section": "Hard",
+      "type": "single",
+      "question": "What is the value of sin²60° + cos²30° − sin²45°?",
+      "options": ["1/2", "3/2", "1", "0"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 16,
+      "section": "Hard",
+      "type": "single",
+      "question": "If sin θ = p/q where 0° < θ < 90°, which of the following is tan θ?",
+      "options": ["p/q", "p/√(q²−p²)", "√(q²−p²)/p", "q/p"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 17,
+      "section": "Hard",
+      "type": "single",
+      "question": "What is the value of (sin 30° + cos 60°)² + (cos 30° + sin 60°)²?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 18,
+      "section": "Hard",
+      "type": "multiple",
+      "question": "In a right triangle where one angle is 30°, which of the following must be true? (Select ALL that apply)",
+      "options": [
+        "The side opposite 30° is exactly half the hypotenuse",
+        "The side opposite 60° is √3 times the side opposite 30°",
+        "tan 30° = 1/√3",
+        "cos 30° = 1/2"
+      ],
+      "correct_answer": ["A", "B", "C"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -2 }
+    },
+
+    {
+      "id": 19,
+      "section": "Very Hard",
+      "type": "single",
+      "question": "⚠️ SKIP IF UNSURE — If sin θ + cos θ = √2 and 0° < θ < 90°, what is the value of sin θ × cos θ?",
+      "options": ["√2", "1", "1/2", "1/4"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    },
+
+    {
+      "id": 20,
+      "section": "Very Hard",
+      "type": "single",
+      "question": "⚠️ SKIP IF UNSURE — What is the value of tan 1° × tan 2° × tan 3° × ... × tan 89°?",
+      "options": ["0", "1", "√3", "Cannot be determined"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": { "correct": 4, "incorrect": -1 }
+    }
+
+  ]
+}
