@@ -1,0 +1,469 @@
+{
+  "exam": {
+    "title": "Trigonometry Test — Advanced (JEE Level)",
+    "duration_minutes": 90,
+    "sections": ["Trigonometry"]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin 75° is:",
+      "options": ["(√6−√2)/4", "(√3+1)/2", "(√6+√2)/4", "(√3−1)/2"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 2,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cos 15° is:",
+      "options": ["(√6−√2)/4", "(√6+√2)/4", "(√3+1)/4", "(√3−1)/4"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 3,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of tan 105° is:",
+      "options": ["2+√3", "√3−2", "−(2+√3)", "2−√3"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 4,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If tan A = 1/2 and tan B = 1/3, then tan(A+B) is:",
+      "options": ["5/6", "6/5", "1", "2/5"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 5,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If sin A = 3/5 and cos B = 5/13, where A and B are both in the 1st quadrant, then sin(A+B) is:",
+      "options": ["56/65", "16/65", "63/65", "33/65"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 6,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If sin A = 4/5 and sin B = 5/13, where A and B are both acute, then cos(A−B) is:",
+      "options": ["33/65", "56/65", "63/65", "16/65"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 7,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If sin x = 3/5 and x is in the 1st quadrant, then sin 2x is:",
+      "options": ["6/25", "12/25", "24/25", "7/25"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 8,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If cos x = 5/13 and x is in the 1st quadrant, then cos 2x is:",
+      "options": ["-119/169", "120/169", "-120/169", "119/169"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 9,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If tan x = 2, then tan 2x is:",
+      "options": ["4/3", "-4/5", "-4/3", "4/5"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 10,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The expression (1 − tan²x) / (1 + tan²x) is equal to:",
+      "options": ["sin 2x", "cos 2x", "tan 2x", "cos x"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 11,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin 75° − sin 15° is:",
+      "options": ["√3/2", "1/2", "1/√2", "√6/4"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 12,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cos 75° + cos 15° is:",
+      "options": ["√2/2", "√3/2", "√6/2", "√6/4"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 13,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "sin(A+B) · sin(A−B) is equal to:",
+      "options": ["sin²A + sin²B", "sin²A − sin²B", "cos²A − cos²B", "cos²B − cos²A"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 14,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "cos(A+B) · cos(A−B) is equal to:",
+      "options": ["cos²A + sin²B", "cos²A − sin²B", "sin²A − cos²B", "cos²A − cos²B"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 15,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "150° expressed in radians is:",
+      "options": ["π/3", "2π/3", "5π/6", "7π/6"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 16,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "π/12 radians expressed in degrees is:",
+      "options": ["12°", "15°", "18°", "20°"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 17,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "7π/4 radians expressed in degrees is:",
+      "options": ["270°", "300°", "315°", "330°"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 18,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If A + B = 45°, then the value of (1 + tan A)(1 + tan B) is:",
+      "options": ["1", "2", "√2", "4"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 19,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "tan(A − B) is equal to:",
+      "options": ["(tanA+tanB)/(1−tanAtanB)", "(tanA−tanB)/(1+tanAtanB)", "(tanA−tanB)/(1−tanAtanB)", "(tanA+tanB)/(1+tanAtanB)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 20,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cos 20° + cos 100° + cos 140° is:",
+      "options": ["1", "√3/2", "1/2", "0"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 21,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "sin A + sin B using the sum-to-product formula equals:",
+      "options": ["2sin((A+B)/2)cos((A−B)/2)", "2cos((A+B)/2)sin((A−B)/2)", "2sin((A+B)/2)sin((A−B)/2)", "2cos((A+B)/2)cos((A−B)/2)"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 22,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "sin x − cos x can be written as:",
+      "options": ["√2 cos(45°−x)", "√2 sin(x−45°)", "√2 cos(x−45°)", "√2 sin(45°+x)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 23,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "5π/6 radians expressed in degrees is:",
+      "options": ["120°", "135°", "150°", "160°"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 24,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin 10° · sin 50° · sin 70° is:",
+      "options": ["1/4", "√3/8", "1/8", "√3/4"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 25,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The expression cos A cos B + sin A sin B is equal to:",
+      "options": ["cos(A+B)", "sin(A+B)", "cos(A−B)", "sin(A−B)"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 26,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sin 20°cos 70° + cos 20°sin 70° is ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 27,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "4π/3 radians expressed in degrees is ____",
+      "options": null,
+      "correct_answer": "240",
+      "numerical_range": [239, 241],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 28,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of 2tan 45° / (1 + tan²45°) is ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 29,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "If sin x = 3/5 and x is in the 1st quadrant, the value of sin 2x is ____",
+      "options": null,
+      "correct_answer": "0.96",
+      "numerical_range": [0.94, 0.98],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 30,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "If tan x = 1 and x is an acute angle, the value of sin 2x is ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 31,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of cos(π/3)cos(π/6) − sin(π/3)sin(π/6) is ____",
+      "options": null,
+      "correct_answer": "0",
+      "numerical_range": [-0.05, 0.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 32,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "3π/4 radians expressed in degrees is ____",
+      "options": null,
+      "correct_answer": "135",
+      "numerical_range": [134, 136],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 33,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sin²(π/6) + cos²(π/3) + tan(π/4) is ____",
+      "options": null,
+      "correct_answer": "1.5",
+      "numerical_range": [1.45, 1.55],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 34,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of 4 · sin 30° · sin 60° · tan 60° is ____",
+      "options": null,
+      "correct_answer": "3",
+      "numerical_range": [2.95, 3.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 35,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sin²(π/3) − cos²(π/6) + sin(π/6) + cos(π/3) is ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 36,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following are correct expressions for sin 2x? (Select ALL that apply)",
+      "options": ["2 sin x cos x", "sin²x − cos²x", "2tan x / (1 + tan²x)", "1 − 2cos²x"],
+      "correct_answer": ["A", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 37,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following are correct forms of cos 2x? (Select ALL that apply)",
+      "options": ["cos²x − sin²x", "1 − 2sin²x", "2cos²x − 1", "2sin²x − 1"],
+      "correct_answer": ["A", "B", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 38,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following compound angle formulas are correct? (Select ALL that apply)",
+      "options": ["sin(A+B) = sinAcosB + cosAsinB", "cos(A+B) = cosAcosB + sinAsinB", "tan(A−B) = (tanA−tanB)/(1+tanAtanB)", "cos(A−B) = cosAcosB + sinAsinB"],
+      "correct_answer": ["A", "C", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 39,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following sum-to-product identities are correct? (Select ALL that apply)",
+      "options": ["sinA + sinB = 2sin((A+B)/2)cos((A−B)/2)", "sinA − sinB = 2sin((A+B)/2)cos((A−B)/2)", "cosA + cosB = 2cos((A+B)/2)cos((A−B)/2)", "cosA − cosB = −2sin((A+B)/2)sin((A−B)/2)"],
+      "correct_answer": ["A", "C", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 40,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "In which quadrants is tan x negative? (Select ALL that apply)",
+      "options": ["1st quadrant", "2nd quadrant", "3rd quadrant", "4th quadrant"],
+      "correct_answer": ["B", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 41,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following identities are correct? (Select ALL that apply)",
+      "options": ["sin²x − cos²x = −cos 2x", "1 + cos 2x = 2sin²x", "1 − cos 2x = 2sin²x", "tan 2x = 2tan x / (1 − tan²x)"],
+      "correct_answer": ["A", "C", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 42,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following are equivalent to cos 2x? (Select ALL that apply)",
+      "options": ["1 − 2sin²x", "2sin²x − 1", "(1 − tan²x)/(1 + tan²x)", "cos²x + sin²x"],
+      "correct_answer": ["A", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 43,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following radian-to-degree conversions are correct? (Select ALL that apply)",
+      "options": ["π/3 = 60°", "5π/6 = 150°", "3π/4 = 120°", "2π/3 = 120°"],
+      "correct_answer": ["A", "B", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 44,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following are equal to sin 75°? (Select ALL that apply)",
+      "options": ["cos 15°", "(√6+√2)/4", "(√6−√2)/4", "sin(45°+30°)"],
+      "correct_answer": ["A", "B", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 45,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following statements are true? (Select ALL that apply)",
+      "options": ["sin(A+B) = sinA·sinB + cosA·cosB", "The value of sin x can never exceed 1", "cos(−x) = cos x", "sin(−x) = −sin x"],
+      "correct_answer": ["B", "C", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    }
+  ]
+}
