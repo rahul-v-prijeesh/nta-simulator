@@ -1,0 +1,467 @@
+{
+  "exam": {
+    "title": "Trigonometry Test — Fundamentals",
+    "duration_minutes": 90,
+    "sections": ["Trigonometry"]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin 30° is:",
+      "options": ["1/√2", "√3/2", "1/2", "1"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 2,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cos 60° is:",
+      "options": ["√3/2", "1/2", "1/√2", "0"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 3,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of tan 45° is:",
+      "options": ["0", "1/√3", "√3", "1"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 4,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin 90° is:",
+      "options": ["0", "1/2", "1/√2", "1"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 5,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cos 0° is:",
+      "options": ["0", "1/2", "1/√2", "1"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 6,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of tan 0° is:",
+      "options": ["1", "Undefined", "√3", "0"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 7,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cosec 90° is:",
+      "options": ["0", "1", "Undefined", "√2"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 8,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cot 45° is:",
+      "options": ["0", "√3", "1/√3", "1"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 9,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of tan 60° is:",
+      "options": ["1", "1/√3", "2", "√3"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 10,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cos 45° is:",
+      "options": ["1/2", "√3/2", "1/√2", "1"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 11,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sec 60° is:",
+      "options": ["1", "√2", "2/√3", "2"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 12,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cosec 30° is:",
+      "options": ["1/2", "√2", "2/√3", "2"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 13,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of cot 30° is:",
+      "options": ["1/√3", "1", "2/√3", "√3"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 14,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "sin(90° − x) is equal to:",
+      "options": ["sin x", "cos x", "tan x", "−cos x"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 15,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "cos(90° − x) is equal to:",
+      "options": ["cos x", "−sin x", "sin x", "tan x"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 16,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "tan(90° − x) is equal to:",
+      "options": ["tan x", "cot x", "sec x", "cosec x"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 17,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "cosec(90° − x) is equal to:",
+      "options": ["cosec x", "cot x", "sin x", "sec x"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 18,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "sec(90° − x) is equal to:",
+      "options": ["sec x", "cos x", "cosec x", "sin x"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 19,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "cot(90° − x) is equal to:",
+      "options": ["cot x", "tan x", "sin x", "cos x"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 20,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "In which quadrant is sin x positive and cos x negative?",
+      "options": ["1st quadrant", "2nd quadrant", "3rd quadrant", "4th quadrant"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 21,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "In which quadrant are ALL six trigonometric ratios positive?",
+      "options": ["2nd quadrant", "3rd quadrant", "4th quadrant", "1st quadrant"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 22,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "In the 3rd quadrant, which trigonometric ratios are positive?",
+      "options": ["sin and cos", "tan and cot", "sec and cos", "sin and tan"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 23,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "In the 4th quadrant, which trigonometric ratios are positive?",
+      "options": ["sin and tan", "sin and cos", "cos and sec", "tan and cot"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 24,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If sin x = 3/5 and x is in the 1st quadrant, then cos x is:",
+      "options": ["4/5", "3/4", "5/3", "5/4"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 25,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If cos x = 5/13 and x is in the 1st quadrant, then sin x is:",
+      "options": ["13/12", "12/13", "5/12", "13/5"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 26,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If tan x = 4/3 and x is in the 1st quadrant, then sin x is:",
+      "options": ["3/5", "4/5", "3/4", "5/4"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 27,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin²x + cos²x for any angle x is:",
+      "options": ["0", "2", "sin x · cos x", "1"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 28,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "Using sin²x + cos²x = 1, the expression (1 − sin²x) equals:",
+      "options": ["tan²x", "sin²x", "cos²x", "sec²x"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 29,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If sin x = 1/2, then cosec x equals:",
+      "options": ["1/2", "√2", "√3/2", "2"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 30,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin(90° − 60°) is:",
+      "options": ["√3/2", "1/2", "1/√2", "√3"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 31,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "Which expression is equivalent to tan x?",
+      "options": ["cos x / sin x", "sin x / cos x", "1 / sin x", "1 / cos x"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 32,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "Which expression is equivalent to cot x?",
+      "options": ["sin x / cos x", "1 / sin x", "cos x / sin x", "1 / cos x"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 33,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "Which expression is equivalent to sec x?",
+      "options": ["1 / sin x", "cos x / sin x", "sin x / cos x", "1 / cos x"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 34,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sin²30° + cos²60° is ____. (Enter as a decimal, e.g. 0.5)",
+      "options": null,
+      "correct_answer": "0.5",
+      "numerical_range": [0.45, 0.55],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 35,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sin 0° + cos 90° is ____",
+      "options": null,
+      "correct_answer": "0",
+      "numerical_range": [-0.05, 0.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 36,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of tan 45° × cot 45° is ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 37,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of (sin 30° + cos 60°) ÷ tan 45° is ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 38,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sin²60° − cos²30° is ____",
+      "options": null,
+      "correct_answer": "0",
+      "numerical_range": [-0.05, 0.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 39,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sec²60° − tan²60° is ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 40,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "If sin A = cos A and A is an acute angle, then tan A = ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 41,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of cos²45° − sin²45° is ____",
+      "options": null,
+      "correct_answer": "0",
+      "numerical_range": [-0.05, 0.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 42,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "In which quadrants is sin x negative? (Select ALL that apply)",
+      "options": ["1st quadrant", "2nd quadrant", "3rd quadrant", "4th quadrant"],
+      "correct_answer": ["C", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 43,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following are positive in the 2nd quadrant? (Select ALL that apply)",
+      "options": ["sin x", "cos x", "tan x", "cosec x"],
+      "correct_answer": ["A", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 44,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following complementary angle identities are correct? (Select ALL that apply)",
+      "options": ["sin(90° − x) = cos x", "cos(90° − x) = −sin x", "tan(90° − x) = cot x", "sec(90° − x) = cosec x"],
+      "correct_answer": ["A", "C", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 45,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "If sin x = 5/13 and x is in the 1st quadrant, which of the following are correct? (Select ALL that apply)",
+      "options": ["cos x = 12/13", "tan x = 5/12", "cosec x = 13/5", "cot x = 5/12"],
+      "correct_answer": ["A", "B", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    }
+  ]
+}
