@@ -1,0 +1,466 @@
+{
+  "exam": {
+    "title": "Mathematics Test — Trigonometry & Algebra",
+    "duration_minutes": 90,
+    "sections": ["Trigonometry", "Algebra – Identities", "Algebra – Exponents", "Algebra – Logarithms"]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "sin(90° − x) is equal to:",
+      "options": ["sin x", "cos x", "tan x", "−cos x"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 2,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "sin(A + B) is equal to:",
+      "options": ["sinA cosB − cosA sinB", "cosA cosB − sinA sinB", "sinA cosB + cosA sinB", "cosA cosB + sinA sinB"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 3,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If sin A = 3/5 and cos B = 5/13, where A and B are in the 1st quadrant, then sin(A + B) is:",
+      "options": ["56/65", "16/65", "63/65", "33/65"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 4,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If tan x = 2, then tan 2x is:",
+      "options": ["4/3", "4/5", "−4/5", "−4/3"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 5,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin 75° is:",
+      "options": ["(√6−√2)/4", "(√3+1)/2", "(√6+√2)/4", "(√3−1)/2"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 6,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "150° expressed in radians is:",
+      "options": ["π/3", "2π/3", "5π/6", "7π/6"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 7,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "π/3 radians expressed in degrees is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 8,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "In which quadrant is sin x negative and cos x positive?",
+      "options": ["1st quadrant", "2nd quadrant", "3rd quadrant", "4th quadrant"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 9,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If cos x = 5/13 and x is in the 1st quadrant, then cos 2x is:",
+      "options": ["-119/169", "120/169", "-120/169", "119/169"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 10,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "sin A + sin B using the sum-to-product formula equals:",
+      "options": ["2sin((A+B)/2) cos((A−B)/2)", "2cos((A+B)/2) sin((A−B)/2)", "2sin((A+B)/2) sin((A−B)/2)", "2cos((A+B)/2) cos((A−B)/2)"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 11,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sin²(π/6) + cos²(π/3) is ____",
+      "options": null,
+      "correct_answer": "0.5",
+      "numerical_range": [0.45, 0.55],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 12,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sin 20°cos 70° + cos 20°sin 70° is ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 13,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "If sin x = 3/5 and x is in the 1st quadrant, the value of sin 2x is ____",
+      "options": null,
+      "correct_answer": "0.96",
+      "numerical_range": [0.94, 0.98],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 14,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following are correct forms of cos 2x? (Select ALL that apply)",
+      "options": ["cos²x − sin²x", "1 − 2sin²x", "2cos²x − 1", "2sin²x − 1"],
+      "correct_answer": ["A", "B", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 15,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following complementary angle conversions are correct? (Select ALL that apply)",
+      "options": ["sin(90° − x) = cos x", "cos(90° − x) = −sin x", "tan(90° − x) = cot x", "sec(90° − x) = cosec x"],
+      "correct_answer": ["A", "C", "D"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 16,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "(a + b)² is equal to:",
+      "options": ["a² + b²", "a² + ab + b²", "a² + 2ab + b²", "a² − 2ab + b²"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 17,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "(a − b)² is equal to:",
+      "options": ["a² − b²", "a² − 2ab + b²", "a² + 2ab − b²", "a² − 2ab − b²"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 18,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "If a + b = 5 and ab = 6, then a² + b² is:",
+      "options": ["11", "12", "13", "17"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 19,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "If x − y = 4 and xy = 3, then x² + y² is:",
+      "options": ["10", "13", "18", "22"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 20,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "The factored form of a² − b² is:",
+      "options": ["(a + b)²", "(a − b)²", "(a + b)(a − b)", "(a − b)(a + 2b)"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 21,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "9x² − 16y² factored is:",
+      "options": ["(3x + 4y)²", "(3x − 4y)(3x + 4y)", "(9x + 16y)(x − y)", "(3x − 4y)²"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 22,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "(a + b)³ is equal to:",
+      "options": ["a³ + b³", "a³ + 2a²b + 2ab² + b³", "a³ + 3a²b + 3ab² + b³", "a³ + 3ab + b³"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 23,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "a³ + b³ is equal to:",
+      "options": ["(a + b)(a² + ab + b²)", "(a + b)(a² − ab + b²)", "(a − b)(a² + ab + b²)", "(a + b)³"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 24,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "a³ − b³ is equal to:",
+      "options": ["(a − b)(a² − ab + b²)", "(a + b)(a² − ab + b²)", "(a − b)(a² + ab + b²)", "(a − b)³"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 25,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "If a + b = 3 and ab = 2, then a³ + b³ is:",
+      "options": ["3", "6", "9", "12"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 26,
+      "section": "Algebra – Identities",
+      "type": "numerical",
+      "question": "If a − b = 2 and ab = 3, then a² + b² is ____",
+      "options": null,
+      "correct_answer": "10",
+      "numerical_range": [9.5, 10.5],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 27,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "The expanded form of (2x + 3)² is:",
+      "options": ["4x² + 6x + 9", "4x² + 12x + 9", "4x² + 9x + 9", "2x² + 12x + 9"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 28,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "(x − 5)(x + 5) is equal to:",
+      "options": ["x² + 25", "x² − 10x + 25", "x² − 25", "x² + 10x − 25"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 29,
+      "section": "Algebra – Identities",
+      "type": "multiple",
+      "question": "Which of the following identities are correct? (Select ALL that apply)",
+      "options": ["(a + b)² = a² + 2ab + b²", "(a − b)² = a² − 2ab − b²", "a² − b² = (a + b)(a − b)", "(a + b)(a − b) = a² + b²"],
+      "correct_answer": ["A", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 30,
+      "section": "Algebra – Identities",
+      "type": "multiple",
+      "question": "Which of the following are correctly expanded or factored? (Select ALL that apply)",
+      "options": ["a³ + b³ = (a + b)(a² − ab + b²)", "a³ − b³ = (a − b)(a² + ab − b²)", "(a + b)³ = a³ + 3a²b + 3ab² + b³", "(a − b)³ = a³ − 3a²b − 3ab² + b³"],
+      "correct_answer": ["A", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 31,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "aᵐ × aⁿ is equal to:",
+      "options": ["a^(mn)", "a^(m+n)", "a^(m−n)", "(2a)^(mn)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 32,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "(aᵐ)ⁿ is equal to:",
+      "options": ["a^(m+n)", "a^(m/n)", "a^(mn)", "n · aᵐ"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 33,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "For any non-zero value of a, a⁰ is equal to:",
+      "options": ["0", "a", "1", "Undefined"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 34,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "a⁻ⁿ is equal to:",
+      "options": ["aⁿ", "−aⁿ", "1/aⁿ", "n/a"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 35,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "aᵐ ÷ aⁿ is equal to:",
+      "options": ["a^(m+n)", "a^(mn)", "a^(m−n)", "a^(m/n)"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 36,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "(ab)ⁿ is equal to:",
+      "options": ["aⁿ + bⁿ", "aⁿ · bⁿ", "(a + b)ⁿ", "n · ab"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 37,
+      "section": "Algebra – Exponents",
+      "type": "numerical",
+      "question": "The value of 3⁴ ÷ 3² is ____",
+      "options": null,
+      "correct_answer": "9",
+      "numerical_range": [8.5, 9.5],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 38,
+      "section": "Algebra – Exponents",
+      "type": "numerical",
+      "question": "The value of (2³)² is ____",
+      "options": null,
+      "correct_answer": "64",
+      "numerical_range": [63, 65],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 39,
+      "section": "Algebra – Logarithms",
+      "type": "single",
+      "question": "log(a × b) is equal to:",
+      "options": ["log a × log b", "log a + log b", "log a − log b", "log a / log b"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 40,
+      "section": "Algebra – Logarithms",
+      "type": "single",
+      "question": "log(a / b) is equal to:",
+      "options": ["log a + log b", "log a × log b", "log a − log b", "log b − log a"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 41,
+      "section": "Algebra – Logarithms",
+      "type": "single",
+      "question": "log(aⁿ) is equal to:",
+      "options": ["(log a)ⁿ", "n + log a", "n · log a", "log(n · a)"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 42,
+      "section": "Algebra – Logarithms",
+      "type": "single",
+      "question": "logₐ(a) is equal to:",
+      "options": ["0", "a", "1", "1/a"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 43,
+      "section": "Algebra – Logarithms",
+      "type": "single",
+      "question": "The value of log₂(16) is:",
+      "options": ["2", "3", "4", "8"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 44,
+      "section": "Algebra – Logarithms",
+      "type": "numerical",
+      "question": "The value of log₁₀(1000) is ____",
+      "options": null,
+      "correct_answer": "3",
+      "numerical_range": [2.95, 3.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 45,
+      "section": "Algebra – Logarithms",
+      "type": "multiple",
+      "question": "Which of the following logarithm properties are correct? (Select ALL that apply)",
+      "options": ["log(a × b) = log a + log b", "log(a + b) = log a × log b", "log(aⁿ) = n · log a", "logₐ(1) = 1"],
+      "correct_answer": ["A", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    }
+  ]
+}
