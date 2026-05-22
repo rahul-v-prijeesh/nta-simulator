@@ -1,0 +1,569 @@
+{
+  "exam": {
+    "title": "Mathematics Comprehensive Test — Trig, Algebra, Vectors & Determinants",
+    "duration_minutes": 90,
+    "sections": ["Trigonometry", "Algebra – Identities", "Algebra – Exponents", "Algebra – Logarithms", "Vectors", "Determinants"]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin 45° is:",
+      "options": ["1/2", "√3/2", "1/√2", "1"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 2,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "cos(90° − x) is equal to:",
+      "options": ["cos x", "−sin x", "sin x", "tan x"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 3,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "In which quadrant are ALL six trigonometric ratios positive?",
+      "options": ["2nd", "3rd", "4th", "1st"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 4,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "Using sin²x + cos²x = 1, the expression (1 − cos²x) equals:",
+      "options": ["tan²x", "sec²x", "sin²x", "cos²x"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 5,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "sin(A + B) is equal to:",
+      "options": ["sinA cosB − cosA sinB", "cosA cosB + sinA sinB", "sinA cosB + cosA sinB", "cosA cosB − sinA sinB"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 6,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If sin A = 3/5 and cos B = 5/13, where A and B are in the 1st quadrant, then sin(A + B) is:",
+      "options": ["56/65", "16/65", "63/65", "33/65"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 7,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If sin x = 4/5 and x is in the 1st quadrant, then sin 2x is:",
+      "options": ["8/25", "12/25", "24/25", "16/25"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 8,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "120° expressed in radians is:",
+      "options": ["π/3", "π/2", "2π/3", "3π/4"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 9,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "π/6 radians expressed in degrees is:",
+      "options": ["15°", "20°", "30°", "45°"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 10,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "The value of sin 75° is:",
+      "options": ["(√6−√2)/4", "(√3+1)/2", "(√6+√2)/4", "√3/2"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 11,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If tan A = 1/2 and tan B = 1/3, then tan(A + B) is:",
+      "options": ["5/6", "6/5", "1", "√3"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 12,
+      "section": "Trigonometry",
+      "type": "single",
+      "question": "If sin x = 5/13 and x is in the 1st quadrant, then cos 2x is:",
+      "options": ["119/169", "−50/169", "−119/169", "120/169"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 13,
+      "section": "Trigonometry",
+      "type": "multiple",
+      "question": "Which of the following are correct forms of cos 2x? (Select ALL that apply)",
+      "options": ["cos²x − sin²x", "1 − 2sin²x", "2cos²x − 1", "2sin²x − 1"],
+      "correct_answer": ["A", "B", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 14,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "The value of sin 20°cos 70° + cos 20°sin 70° is ____",
+      "options": null,
+      "correct_answer": "1",
+      "numerical_range": [0.95, 1.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 15,
+      "section": "Trigonometry",
+      "type": "numerical",
+      "question": "If sin x = 3/5 and x is in the 1st quadrant, the value of sin 2x is ____",
+      "options": null,
+      "correct_answer": "0.96",
+      "numerical_range": [0.94, 0.98],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 16,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "(a + b)² is equal to:",
+      "options": ["a² + b²", "a² + ab + b²", "a² + 2ab + b²", "a² − 2ab + b²"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 17,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "a³ + b³ is equal to:",
+      "options": ["(a+b)(a²+ab+b²)", "(a−b)(a²−ab+b²)", "(a+b)(a²−ab+b²)", "(a+b)³"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 18,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "x² − 9 factored is:",
+      "options": ["(x+3)²", "(x−3)²", "(x+3)(x−3)", "(x+9)(x−1)"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 19,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "If a + b = 7 and ab = 10, then a² + b² is:",
+      "options": ["23", "27", "29", "33"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 20,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "If x − y = 3 and xy = 4, then x² + y² is:",
+      "options": ["10", "13", "17", "21"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 21,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "The expanded form of (2x − 3y)² is:",
+      "options": ["4x²−6xy+9y²", "4x²+12xy+9y²", "4x²−12xy+9y²", "2x²−12xy+3y²"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 22,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "If a + b = 5 and ab = 6, then a³ + b³ is:",
+      "options": ["25", "30", "35", "40"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 23,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "(a + b)³ is equal to:",
+      "options": ["a³+b³", "a³+2a²b+2ab²+b³", "a³+3a²b+3ab²+b³", "a³+3ab+b³"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 24,
+      "section": "Algebra – Identities",
+      "type": "single",
+      "question": "If a² + b² = 29 and ab = 10, then (a + b) is:",
+      "options": ["5", "6", "7", "9"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 25,
+      "section": "Algebra – Identities",
+      "type": "multiple",
+      "question": "Which of the following are correctly factored or expanded? (Select ALL that apply)",
+      "options": ["a³+b³ = (a+b)(a²−ab+b²)", "a³−b³ = (a−b)(a²+ab−b²)", "(a+b)³ = a³+3a²b+3ab²+b³", "(a−b)³ = a³−3a²b−3ab²+b³"],
+      "correct_answer": ["A", "C"],
+      "images": null,
+      "marks": {"correct": 4, "partial": 2, "incorrect": -2}
+    },
+    {
+      "id": 26,
+      "section": "Algebra – Identities",
+      "type": "numerical",
+      "question": "If a − b = 3 and a² + b² = 29, then ab = ____",
+      "options": null,
+      "correct_answer": "10",
+      "numerical_range": [9.5, 10.5],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 27,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "aᵐ × aⁿ is equal to:",
+      "options": ["a^(mn)", "a^(m+n)", "(2a)^mn", "a^(m−n)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 28,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "For any non-zero a, the value of a⁰ is:",
+      "options": ["0", "a", "∞", "1"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 29,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "a⁻ⁿ is equal to:",
+      "options": ["aⁿ", "−aⁿ", "1/aⁿ", "n/a"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 30,
+      "section": "Algebra – Exponents",
+      "type": "single",
+      "question": "The value of 2⁵ × 2³ ÷ 2⁴ is:",
+      "options": ["8", "12", "16", "32"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 31,
+      "section": "Algebra – Exponents",
+      "type": "numerical",
+      "question": "The value of (3²)³ is ____",
+      "options": null,
+      "correct_answer": "729",
+      "numerical_range": [728, 730],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 32,
+      "section": "Algebra – Logarithms",
+      "type": "single",
+      "question": "log(a × b) is equal to:",
+      "options": ["log a × log b", "log a + log b", "log a − log b", "log(a+b)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 33,
+      "section": "Algebra – Logarithms",
+      "type": "single",
+      "question": "logₐ(1) is equal to:",
+      "options": ["1", "a", "0", "−1"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 34,
+      "section": "Algebra – Logarithms",
+      "type": "single",
+      "question": "The value of log₂(32) is:",
+      "options": ["3", "4", "5", "6"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 35,
+      "section": "Algebra – Logarithms",
+      "type": "single",
+      "question": "If log₂ x = 3, then x is:",
+      "options": ["4", "6", "8", "9"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 36,
+      "section": "Algebra – Logarithms",
+      "type": "numerical",
+      "question": "The value of log₁₀(1000) is ____",
+      "options": null,
+      "correct_answer": "3",
+      "numerical_range": [2.95, 3.05],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 37,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If A = (1, 2) and B = (4, 6), then the vector AB is:",
+      "options": ["(3, 4)", "(5, 8)", "(−3, −4)", "(2, 4)"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 38,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (2, 3) and b = (1, 4), then a + b is:",
+      "options": ["(1, −1)", "(3, 7)", "(2, 12)", "(3, −1)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 39,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (4, 6), then 3a is:",
+      "options": ["(7, 9)", "(12, 18)", "(4, 6)", "(8, 12)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 40,
+      "section": "Vectors",
+      "type": "single",
+      "question": "The dot product a · b for a = (1, 2, 3) and b = (4, 5, 6) is:",
+      "options": ["24", "28", "32", "36"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 41,
+      "section": "Vectors",
+      "type": "single",
+      "question": "The dot product a · b for a = (2, 3, −1) and b = (1, −1, 2) is:",
+      "options": ["−5", "−3", "3", "7"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 42,
+      "section": "Vectors",
+      "type": "single",
+      "question": "The vector from A(1, 2, 3) to B(4, 6, 9) is:",
+      "options": ["(5, 8, 12)", "(3, 4, 6)", "(2, 4, 6)", "(3, 4, 12)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 43,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (1, 2, 3) and b = (0, 1, −1), then 2a + b is:",
+      "options": ["(2, 4, 5)", "(2, 5, 4)", "(2, 5, 5)", "(1, 5, 5)"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 44,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a · b = 0 and neither a nor b is the zero vector, then the vectors are:",
+      "options": ["Parallel", "Equal in magnitude", "Perpendicular", "Unit vectors"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 45,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If |a| = 5, |b| = 4, and the angle between them is 60°, then a · b is:",
+      "options": ["5", "8", "10", "20"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 46,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (x, 2, 1) and b = (2, 1, 3) are perpendicular, the value of x is:",
+      "options": ["−5", "−5/2", "−3", "−2"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 47,
+      "section": "Vectors",
+      "type": "numerical",
+      "question": "The magnitude |a| of the vector a = (3, 4) is ____",
+      "options": null,
+      "correct_answer": "5",
+      "numerical_range": [4.9, 5.1],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 48,
+      "section": "Vectors",
+      "type": "numerical",
+      "question": "The magnitude |a| of the vector a = (1, 2, 2) is ____",
+      "options": null,
+      "correct_answer": "3",
+      "numerical_range": [2.9, 3.1],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 49,
+      "section": "Determinants",
+      "type": "single",
+      "question": "The determinant of a 2×2 matrix [[a, b], [c, d]] is:",
+      "options": ["ab − cd", "ac − bd", "ad + bc", "ad − bc"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 50,
+      "section": "Determinants",
+      "type": "single",
+      "question": "The determinant of the identity matrix [[1, 0], [0, 1]] is:",
+      "options": ["0", "1", "−1", "2"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 51,
+      "section": "Determinants",
+      "type": "single",
+      "question": "If det[[x, 2], [3, 6]] = 0, then x is:",
+      "options": ["0", "1", "2", "3"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 52,
+      "section": "Determinants",
+      "type": "single",
+      "question": "The determinant of [[1, 2, 3], [4, 5, 6], [7, 8, 9]] is:",
+      "options": ["−6", "0", "6", "12"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 53,
+      "section": "Determinants",
+      "type": "numerical",
+      "question": "The value of det[[2, 3], [1, 4]] is ____",
+      "options": null,
+      "correct_answer": "5",
+      "numerical_range": [4.5, 5.5],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 54,
+      "section": "Determinants",
+      "type": "numerical",
+      "question": "The value of det[[3, 1], [2, 4]] is ____",
+      "options": null,
+      "correct_answer": "10",
+      "numerical_range": [9.5, 10.5],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 55,
+      "section": "Determinants",
+      "type": "numerical",
+      "question": "The value of det[[1, 2, 3], [0, 4, 5], [0, 0, 6]] is ____",
+      "options": null,
+      "correct_answer": "24",
+      "numerical_range": [23.5, 24.5],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    }
+  ]
+}
