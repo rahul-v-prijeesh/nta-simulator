@@ -1,0 +1,820 @@
+{
+  "exam": {
+    "title": "Vectors, AP & GP — Guided Practice Test",
+    "duration_minutes": 90,
+    "sections": ["Vectors", "Arithmetic Progression", "Geometric Progression"],
+    "note": "Each section begins with worked examples. Read the example and solution carefully before attempting the questions that follow."
+  },
+  "questions": [
+    {
+      "id": "E1",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Finding the vector between two points",
+      "problem": "If A = (1, 2) and B = (4, 6), find the vector AB.",
+      "solution": "AB = B − A = (4−1, 6−2) = (3, 4)",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 1,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If A = (2, 3) and B = (7, 8), find the vector AB.",
+      "options": ["(5, 4)", "(5, 5)", "(9, 11)", "(4, 5)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 2,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If A = (−1, 4) and B = (3, 1), find the vector AB.",
+      "options": ["(2, 5)", "(4, −3)", "(−4, 3)", "(4, 3)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 3,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If P = (1, 2, 3) and Q = (4, 6, 9), find the vector PQ.",
+      "options": ["(3, 4, 6)", "(5, 8, 12)", "(4, 6, 9)", "(3, 8, 6)"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E2",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Sum of two vectors",
+      "problem": "If a = (2, 3) and b = (1, −1), find a + b.",
+      "solution": "a + b = (2+1, 3+(−1)) = (3, 2)",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 4,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (3, 4) and b = (−1, 2), find a + b.",
+      "options": ["(4, 6)", "(2, 6)", "(2, 2)", "(−3, 8)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 5,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (1, 2, 3) and b = (2, −1, 1), find a + b.",
+      "options": ["(3, 1, 2)", "(3, 1, 4)", "(2, 2, 4)", "(1, 3, 4)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 6,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (5, −3) and b = (−2, 3), find a + b.",
+      "options": ["(3, 0)", "(3, 6)", "(7, 0)", "(3, −6)"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E3",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Scalar multiplication",
+      "problem": "If a = (2, 3), find 4a.",
+      "solution": "4a = (4×2, 4×3) = (8, 12). Multiply each component by the scalar.",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 7,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (4, −2), find 2a.",
+      "options": ["(8, 4)", "(8, −4)", "(6, 0)", "(4, −2)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 8,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (1, 3, −2), find −2a.",
+      "options": ["(2, 6, −4)", "(−2, −6, 4)", "(−2, 6, −4)", "(−1, −3, 2)"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 9,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (3, 6, 9), find (1/3)a.",
+      "options": ["(1, 2, 3)", "(9, 18, 27)", "(1, 3, 3)", "(3, 6, 9)"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E4",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Magnitude (length) of a vector",
+      "problem": "Find |a| if a = (3, 4).",
+      "solution": "|a| = √(3² + 4²) = √(9 + 16) = √25 = 5",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 10,
+      "section": "Vectors",
+      "type": "numerical",
+      "question": "Find |a| if a = (5, 12). (The answer is a whole number.)",
+      "options": null,
+      "correct_answer": "13",
+      "numerical_range": [12.9, 13.1],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 11,
+      "section": "Vectors",
+      "type": "numerical",
+      "question": "Find |a| if a = (1, 2, 2). (The answer is a whole number.)",
+      "options": null,
+      "correct_answer": "3",
+      "numerical_range": [2.9, 3.1],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 12,
+      "section": "Vectors",
+      "type": "numerical",
+      "question": "Find |a| if a = (2, 6, 3). (The answer is a whole number.)",
+      "options": null,
+      "correct_answer": "7",
+      "numerical_range": [6.9, 7.1],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": "E5",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Combined scalar multiplication and addition",
+      "problem": "If a = (1, 2) and b = (3, 4), find 2a + 3b.",
+      "solution": "2a = (2, 4),  3b = (9, 12),  2a + 3b = (2+9, 4+12) = (11, 16)",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 13,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (2, 1) and b = (1, 3), find 3a + 2b.",
+      "options": ["(8, 9)", "(7, 7)", "(9, 9)", "(8, 7)"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 14,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (1, −1, 2) and b = (2, 1, −1), find a − 2b.",
+      "options": ["(−3, −3, 4)", "(3, 3, −4)", "(−1, −3, 3)", "(3, −3, 4)"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 15,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (3, 2, 1) and b = (1, 2, 3), find 2a − b.",
+      "options": ["(5, 2, −1)", "(7, 6, 5)", "(5, 2, 1)", "(4, 2, −2)"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E6",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Dot product of two vectors",
+      "problem": "Find a · b if a = (2, 3) and b = (4, 1).",
+      "solution": "a · b = (2×4) + (3×1) = 8 + 3 = 11.  Multiply matching components and add.",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 16,
+      "section": "Vectors",
+      "type": "numerical",
+      "question": "Find a · b if a = (1, 2) and b = (3, 4).",
+      "options": null,
+      "correct_answer": "11",
+      "numerical_range": [10.9, 11.1],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 17,
+      "section": "Vectors",
+      "type": "numerical",
+      "question": "Find a · b if a = (2, −3) and b = (1, 2).",
+      "options": null,
+      "correct_answer": "-4",
+      "numerical_range": [-4.1, -3.9],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 18,
+      "section": "Vectors",
+      "type": "single",
+      "question": "Find a · b if a = (1, 0) and b = (0, 1).",
+      "options": ["0", "1", "−1", "2"],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E7",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Dot product in 3D",
+      "problem": "Find a · b if a = (1, 2, 3) and b = (4, 5, 6).",
+      "solution": "a · b = (1×4) + (2×5) + (3×6) = 4 + 10 + 18 = 32",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 19,
+      "section": "Vectors",
+      "type": "single",
+      "question": "Find a · b if a = (1, −2, 3) and b = (2, 1, −1).",
+      "options": ["−5", "−3", "3", "7"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 20,
+      "section": "Vectors",
+      "type": "single",
+      "question": "Find a · b if a = (3, 4, 0) and b = (1, −1, 5).",
+      "options": ["−2", "−1", "1", "7"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 21,
+      "section": "Vectors",
+      "type": "single",
+      "question": "Find a · b if a = (2, 3, −1) and b = (1, −1, 2).",
+      "options": ["−5", "−3", "3", "5"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E8",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Checking if two vectors are perpendicular",
+      "problem": "Are a = (1, −1) and b = (1, 1) perpendicular?",
+      "solution": "a · b = (1×1) + (−1×1) = 1 − 1 = 0.  Since a · b = 0, the vectors ARE perpendicular.",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 22,
+      "section": "Vectors",
+      "type": "single",
+      "question": "Are a = (2, 3) and b = (3, −2) perpendicular?",
+      "options": ["No, a·b = 6", "No, a·b = 12", "Yes, a·b = 0", "No, a·b = −6"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 23,
+      "section": "Vectors",
+      "type": "single",
+      "question": "Find x if a = (2, x) and b = (3, −2) are perpendicular.",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 24,
+      "section": "Vectors",
+      "type": "single",
+      "question": "Are a = (1, 1, 1) and b = (1, −2, 1) perpendicular?",
+      "options": ["No, a·b = 3", "No, a·b = 2", "Yes, a·b = 0", "No, a·b = 1"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E9",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Finding the angle between two vectors using dot product",
+      "problem": "If a · b = 10, |a| = 5 and |b| = 4, find the angle between them.",
+      "solution": "cos θ = (a · b) / (|a| × |b|) = 10 / (5×4) = 10/20 = 1/2,  so θ = 60°",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 25,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a · b = 12, |a| = 4 and |b| = 6, find cos θ where θ is the angle between them.",
+      "options": ["1/4", "1/3", "1/2", "1"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 26,
+      "section": "Vectors",
+      "type": "single",
+      "question": "Find the angle between a = (1, 0, 0) and b = (0, 0, 1).",
+      "options": ["0°", "30°", "60°", "90°"],
+      "correct_answer": ["D"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 27,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (1, 1, 0) and b = (1, 0, 0), find cos θ where θ is the angle between them.",
+      "options": ["1/2", "1/√2", "√3/2", "1"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E10",
+      "section": "Vectors",
+      "type": "example",
+      "concept": "Distributing dot product over vector addition",
+      "problem": "If a = (1, 2), b = (3, 0), c = (0, 1), find a · (b + c).",
+      "solution": "b + c = (3+0, 0+1) = (3, 1).  a · (b+c) = (1×3) + (2×1) = 3 + 2 = 5",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 28,
+      "section": "Vectors",
+      "type": "single",
+      "question": "⚠ HARD — If a = (2, k, 1) and b = (1, −1, 3) are perpendicular, find k.",
+      "options": ["−5", "3", "5", "7"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 29,
+      "section": "Vectors",
+      "type": "single",
+      "question": "If a = (1, 2, 3), b = (2, −1, 1) and c = (1, 1, −1), find a · (b + c).",
+      "options": ["0", "3", "6", "9"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 30,
+      "section": "Vectors",
+      "type": "single",
+      "question": "For a = (2, −1, 2), the value of a · a equals:",
+      "options": ["7", "8", "9", "11"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E11",
+      "section": "Arithmetic Progression",
+      "type": "example",
+      "concept": "Finding the nth term of an AP",
+      "problem": "Find the 10th term of the AP: 3, 7, 11, 15, ...",
+      "solution": "a = 3,  d = 4.  Tₙ = a + (n−1)d.  T₁₀ = 3 + (9)(4) = 3 + 36 = 39",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 31,
+      "section": "Arithmetic Progression",
+      "type": "numerical",
+      "question": "Find the 15th term of the AP: 2, 5, 8, 11, ...",
+      "options": null,
+      "correct_answer": "44",
+      "numerical_range": [43.5, 44.5],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 32,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "Find the 8th term of the AP: 10, 7, 4, 1, ...",
+      "options": ["−8", "−11", "−14", "−17"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 33,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "The 1st term of an AP is 5 and the 5th term is 17. Find the common difference d.",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E12",
+      "section": "Arithmetic Progression",
+      "type": "example",
+      "concept": "Checking if a number belongs to an AP",
+      "problem": "Is 55 a term of the AP: 1, 4, 7, 10, ...?",
+      "solution": "Tₙ = 1 + (n−1)×3 = 55  →  3n − 2 = 55  →  3n = 57  →  n = 19.  Yes — it is the 19th term.",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 34,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "Is 68 a term of the AP: 3, 8, 13, 18, ...?",
+      "options": ["No", "Yes, 12th term", "Yes, 14th term", "Yes, 16th term"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 35,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "How many terms are in the AP: 5, 11, 17, ..., 95?",
+      "options": ["14", "15", "16", "17"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 36,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "Which term of the AP 4, 9, 14, ... is 104?",
+      "options": ["18th", "19th", "21st", "23rd"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E13",
+      "section": "Arithmetic Progression",
+      "type": "example",
+      "concept": "Sum of first n terms of an AP",
+      "problem": "Find the sum of the first 10 terms of the AP: 1, 3, 5, 7, ...",
+      "solution": "a = 1, d = 2, n = 10.  Sₙ = n/2 × [2a + (n−1)d] = 10/2 × [2 + 18] = 5 × 20 = 100",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 37,
+      "section": "Arithmetic Progression",
+      "type": "numerical",
+      "question": "Find the sum of the first 15 terms of the AP: 2, 5, 8, ...",
+      "options": null,
+      "correct_answer": "345",
+      "numerical_range": [344, 346],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 38,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "Find the sum of the first 10 terms of the AP: 7, 10, 13, ...",
+      "options": ["185", "195", "205", "215"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 39,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "Find the sum of the AP: 3 + 8 + 13 + 18 + ... + 78.",
+      "options": ["612", "630", "648", "666"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E14",
+      "section": "Arithmetic Progression",
+      "type": "example",
+      "concept": "Finding a and d when two terms are given",
+      "problem": "The 3rd term of an AP is 11 and the 7th term is 23. Find a and d.",
+      "solution": "T₃ = a + 2d = 11 and T₇ = a + 6d = 23.  Subtracting: 4d = 12, d = 3.  Then a = 11 − 6 = 5.",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 40,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "The 4th term of an AP is 18 and the 8th term is 30. Find a and d.",
+      "options": ["a=6, d=4", "a=9, d=3", "a=9, d=4", "a=6, d=3"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 41,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "The 2nd term of an AP is 7 and the 6th term is 19. What is the AP?",
+      "options": ["3, 6, 9, 12...", "4, 7, 10, 13...", "5, 8, 11, 14...", "2, 5, 8, 11..."],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 42,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "The sum of the first 10 terms of an AP is 100 and its first term is 1. Find d.",
+      "options": ["d=1", "d=2", "d=3", "d=4"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E15",
+      "section": "Arithmetic Progression",
+      "type": "example",
+      "concept": "Sum of multiples using AP formula",
+      "problem": "Find the sum of all multiples of 4 between 1 and 50.",
+      "solution": "The multiples are 4, 8, 12, ..., 48.  a=4, d=4, last term=48.  n=12.  S = 12/2 × (4+48) = 6×52 = 312",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 43,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "Find the sum of all multiples of 5 from 5 to 100.",
+      "options": ["950", "1000", "1050", "1100"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 44,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "Find the sum of all even numbers from 2 to 50.",
+      "options": ["600", "625", "650", "675"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 45,
+      "section": "Arithmetic Progression",
+      "type": "single",
+      "question": "⚠ HARD — The sum of n terms of an AP is given by Sₙ = 5n² − 3n. Find the 8th term.  (Hint: T₈ = S₈ − S₇)",
+      "options": ["64", "68", "72", "77"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E16",
+      "section": "Geometric Progression",
+      "type": "example",
+      "concept": "Finding the nth term of a GP",
+      "problem": "Find the 6th term of the GP: 2, 6, 18, ...",
+      "solution": "a = 2, r = 3.  Tₙ = a × rⁿ⁻¹.  T₆ = 2 × 3⁵ = 2 × 243 = 486",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 46,
+      "section": "Geometric Progression",
+      "type": "numerical",
+      "question": "Find the 5th term of the GP: 3, 6, 12, ...",
+      "options": null,
+      "correct_answer": "48",
+      "numerical_range": [47.5, 48.5],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 47,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "Find the 7th term of the GP: 1, −2, 4, −8, ...",
+      "options": ["−64", "32", "64", "−32"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 48,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "The GP 1, 1/2, 1/4, ... has nth term equal to:",
+      "options": ["n/2", "(1/2)ⁿ", "(1/2)ⁿ⁻¹", "1/n"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E17",
+      "section": "Geometric Progression",
+      "type": "example",
+      "concept": "Checking if a number belongs to a GP",
+      "problem": "Is 162 a term of the GP: 2, 6, 18, ...?",
+      "solution": "Tₙ = 2 × 3ⁿ⁻¹ = 162  →  3ⁿ⁻¹ = 81 = 3⁴  →  n = 5.  Yes — it is the 5th term.",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 49,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "Is 486 a term of the GP: 2, 6, 18, ...?",
+      "options": ["No", "Yes, 5th term", "Yes, 6th term", "Yes, 7th term"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 50,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "Which term of the GP 3, 6, 12, ... is 192?",
+      "options": ["5th", "6th", "7th", "8th"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 51,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "The 1st term of a GP is 5 and the 4th term is 40. Find r.",
+      "options": ["r=1", "r=2", "r=3", "r=4"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E18",
+      "section": "Geometric Progression",
+      "type": "example",
+      "concept": "Sum of first n terms of a GP",
+      "problem": "Find the sum of the first 4 terms of the GP: 2, 4, 8, 16, ...",
+      "solution": "a=2, r=2, n=4.  Sₙ = a(rⁿ−1)/(r−1) = 2(2⁴−1)/(2−1) = 2×15 = 30",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 52,
+      "section": "Geometric Progression",
+      "type": "numerical",
+      "question": "Find the sum of the first 6 terms of the GP: 3, 9, 27, ...",
+      "options": null,
+      "correct_answer": "1092",
+      "numerical_range": [1091, 1093],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 53,
+      "section": "Geometric Progression",
+      "type": "numerical",
+      "question": "Find the sum of the first 5 terms of the GP: 1, 3, 9, 27, ...",
+      "options": null,
+      "correct_answer": "121",
+      "numerical_range": [120.5, 121.5],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": 0}
+    },
+    {
+      "id": 54,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "What is the sum of the first 10 terms of the GP: 1, 1, 1, 1, ...?",
+      "options": ["1", "5", "10", "∞"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E19",
+      "section": "Geometric Progression",
+      "type": "example",
+      "concept": "Finding a and r when two terms are given",
+      "problem": "The 2nd term of a GP is 6 and the 4th term is 54. Find a and r.",
+      "solution": "ar = 6 and ar³ = 54.  Dividing: r² = 9, so r = 3.  Then a = 6/3 = 2.",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 55,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "The 2nd term of a GP is 4 and the 5th term is 32. Find a and r.",
+      "options": ["a=1, r=4", "a=2, r=2", "a=4, r=2", "a=2, r=4"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 56,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "The 3rd term of a GP is 12 and the 6th term is 96. Find r.",
+      "options": ["r=1", "r=2", "r=3", "r=4"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 57,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "The sum of the first 3 terms of a GP is 14 and each term is double the previous one. Find the first term.",
+      "options": ["a=1", "a=2", "a=3", "a=4"],
+      "correct_answer": ["B"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": "E20",
+      "section": "Geometric Progression",
+      "type": "example",
+      "concept": "Finding the number of terms when the sum is given",
+      "problem": "The sum of a GP with a=1 and r=3 is 364. How many terms are there?",
+      "solution": "Sₙ = 1×(3ⁿ−1)/(3−1) = 364  →  (3ⁿ−1)/2 = 364  →  3ⁿ = 729 = 3⁶  →  n = 6",
+      "images": null,
+      "marks": null
+    },
+    {
+      "id": 58,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "Find the sum of the first 6 terms of the GP: 64, 32, 16, ...",
+      "options": ["120", "124", "126", "128"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 59,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "The 3rd term of a GP is 4 and the 6th term is 32. What is the GP?",
+      "options": ["1, 2, 4, 8, ...", "2, 4, 8, 16, ...", "1, 3, 9, 27, ...", "2, 6, 18, 54, ..."],
+      "correct_answer": ["A"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    },
+    {
+      "id": 60,
+      "section": "Geometric Progression",
+      "type": "single",
+      "question": "⚠ HARD — The sum of n terms of a GP is 255, with first term a = 1 and r = 2. Find n.",
+      "options": ["6", "7", "8", "9"],
+      "correct_answer": ["C"],
+      "images": null,
+      "marks": {"correct": 4, "incorrect": -1}
+    }
+  ]
+}
